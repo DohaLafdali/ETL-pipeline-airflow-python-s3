@@ -38,8 +38,5 @@ Ce projet met en œuvre un pipeline ETL (Extract, Transform, Load) en utilisant 
 
 ## Auteur
 
-[Ajoutez votre nom et vos coordonnées ici.]
+[Lafdali doha.]
 
----
-
-Vous pouvez personnaliser les descriptions et ajouter plus de détails si nécessaire. Assurez-vous d'inclure vos coordonnées pour que les personnes puissent vous contacter si elles ont des questions ou des opportunités.
